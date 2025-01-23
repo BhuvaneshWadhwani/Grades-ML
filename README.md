@@ -23,8 +23,8 @@ The dataset can be found here: https://www.kaggle.com/datasets/mrigaankjaswal/st
   Check highest performing model in train vs test set <br />
   Bootstrapping <br />
   Changes in variable importance <br />
-  PDP plots to check for interaction effects <br />
-  Check for additive effects <br />
+  PDP plots to check for interaction effects visually <br />
+  Check for additive and interaction effects <br />
   Create Partial-Dependence and Ceteris-Paribus Profiles <br />
 
 # Part 5: Model Prediction Test
