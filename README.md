@@ -1,32 +1,48 @@
-# Prediction Modeling - Grades
-This is a university project aimed at using machine learning/prediction modeling to predict students' math grades through socio-economic factors. The project was done in RMarkDown. I have also included the html file so that you can view the output without running the code. Although I have already moved on to other projects, please feel free to leave some feedback :) <br />
-The dataset can be found here: https://www.kaggle.com/datasets/mrigaankjaswal/student-performance-in-mathematics-and-portuguese.
+# Prediction Modeling for Student Math Grades
 
-# Part 1: Data exploration
-  Data description and cleaning <br />
-  Check for violations in normality, variance, collinearity <br />
-  Finalize variables to be used <br />
+## Project Overview
+This university project employs machine learning/prediction modeling techniques to forecast students' mathematics grades based on socio-economic factors. The analysis is conducted using RMarkdown, with both the source code and an HTML output file provided for easy viewing.
 
-# Part 2: Modeling
-  Multiple Linear Regression <br />
-  Regularized Regression (Elastic Net) <br />
-  Decision Tree <br />
-  Random Forest <br />
-  Boosting <br />
+## Dataset
+The project utilizes a dataset available on Kaggle: [Student Performance in Mathematics and Portuguese](https://www.kaggle.com/datasets/mrigaankjaswal/student-performance-in-mathematics-and-portuguese)
 
-# Part 3: Comparing Models
-  By Fold <br />
-  By Model <br />
-  Check variable importance (Top 3 variables) <br />
+## Project Structure
 
-# Part 4: Model Performance
-  Check highest performing model in train vs test set <br />
-  Bootstrapping <br />
-  Changes in variable importance <br />
-  PDP plots to check for interaction effects visually <br />
-  Check for additive and interaction effects <br />
-  Create Partial-Dependence and Ceteris-Paribus Profiles <br />
+### Part 1: Data Exploration
+- Data description and cleaning
+- Assessment of normality, variance, and collinearity
+- Final variable selection
 
-# Part 5: Model Prediction Test
-  Added an artificial participant (random social factor values) to see what grade the model will predict
+### Part 2: Modeling
+Implementation of various predictive models:
+- Multiple Linear Regression
+- Regularized Regression (Elastic Net)
+- Decision Tree
+- Random Forest
+- Boosting
+
+### Part 3: Model Comparison
+- Fold-wise comparison
+- Model-wise comparison
+- Identification of top 3 important variables
+
+### Part 4: Model Performance Analysis
+- Comparison of highest-performing model in training vs. test sets
+- Bootstrapping analysis
+- Examination of changes in variable importance
+- Visual inspection of interaction effects using PDP plots
+- Assessment of additive and interaction effects
+- Creation of Partial-Dependence and Ceteris-Paribus Profiles
+
+### Part 5: Model Prediction Test
+- Introduction of an artificial participant with randomized social factor values to test model predictions
+
+## How to Use
+1. Clone the repository
+2. Open the RMarkdown file in your preferred R environment
+3. Run the code chunks sequentially
+4. Alternatively, view the HTML file for a quick overview of the results
+
+## Feedback
+While this project is no longer actively developed, constructive feedback is always appreciated. Feel free to open an issue or submit a pull request if you have suggestions for improvements.
   
