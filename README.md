@@ -44,5 +44,5 @@ Implementation of various predictive models:
 4. Alternatively, view the HTML file for a quick overview of the results
 
 ## Feedback
-While this project is no longer actively developed, constructive feedback is always appreciated. Feel free to open an issue or submit a pull request if you have suggestions for improvements.
+Constructive feedback is always appreciated. Feel free to share any suggestions or improvements you might have.
   
