@@ -1,5 +1,5 @@
 # Grades-ML
-This is a prediction modeling university project aimed at using machine learning to predict students' math grades through socio-economic factors. Although I have already moved on to other projects, please feel free to leave some feedback :) <br />
+This is a prediction modeling university project aimed at using machine learning to predict students' math grades through socio-economic factors. The project was done in RMarkDown. Although I have already moved on to other projects, please feel free to leave some feedback :) <br />
 The dataset can be found here: https://www.kaggle.com/datasets/mrigaankjaswal/student-performance-in-mathematics-and-portuguese.
 
 # Part 1: Data exploration
