@@ -41,7 +41,7 @@ Implementation of various predictive models:
 1. Clone the repository
 2. Open the RMarkdown file in your preferred R environment
 3. Run the code chunks sequentially
-4. Alternatively, view the HTML file for a quick overview of the results
+4. Alternatively, view the HTML or Markdown (.md) file for a quick overview of the results
 
 ## Feedback
 Constructive feedback is always appreciated. Feel free to share any suggestions or improvements you might have.
